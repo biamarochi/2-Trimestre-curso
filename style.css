@@ -24,6 +24,8 @@ padding: 0;
     background-image: url("img/Background.png");
     background-repeat: no-repeat;
     background-size: contein;
+    align-itens: center;
+    text-align: center;
 }
 
 .container{
@@ -39,6 +41,7 @@ padding: 0;
     color: var(--branco-principal);
     display: block;
     text-decoration: none;
+    margin-bottom: 1em;
 }
 
 .botao_secundario{
