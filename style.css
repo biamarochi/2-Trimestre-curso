@@ -8,8 +8,8 @@
 }
 
 body{
-    background-color: var(--cor-de-fundo)
-    color: var(--branco-principal)
+    background-color: var(--cor-de-fundo);
+    color: var(--branco-principal);
     font-family: var(--fonte-principal);
     font-size: 16px;
     font-weight: 400;
@@ -24,7 +24,7 @@ padding: 0;
     background-image: url("img/Background.png");
     background-repeat: no-repeat;
     background-size: contein;
-    align-itens: center;
+    align-items: center;
     text-align: center;
 }
 
@@ -45,7 +45,7 @@ padding: 0;
 }
 
 .botao_secundario{
-    background_color: transparent;
+    background-color: transparent;
     border: 2px solid var(--branco-principal);
 }
 
