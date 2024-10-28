@@ -315,9 +315,9 @@ h1.headline {
     background-color: var(--main-font-color-dark);
 }
 
-/* ALWAYS FRESH */
+/* Sempre fresco */
 
-.always-fresh {
+.sempre-fresco {
     background: url("images/tasteful-recipes.jpg") center no-repeat;
     background-size: cover;
 }
